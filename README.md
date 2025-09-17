@@ -40,7 +40,11 @@ wanderlust-travel-app/
    git clone https://github.com/Sudeepsahu20/wanderlust-travel-app.git
 
 
-Navigate to the project folder : npm install
+Navigate to the project folder 
+-cd wanderlust-travel-app
+
+Install dependencies
+-npm install
 
 Setup environment variables in .env
 -CLOUDINARY_KEY=your_key
