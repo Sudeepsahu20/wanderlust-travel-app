@@ -54,3 +54,6 @@ Setup environment variables in .env
 
 Run the app
 -npm start
+
+
+<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/e4584d33-e4e8-4871-b466-2591b6b271e1" />
